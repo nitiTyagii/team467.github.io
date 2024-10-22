@@ -3,7 +3,7 @@ date: '2016-11-04T09:40:46-04:00'
 title: Annual Apple Pie Bake
 ---
 
-For over a decade, Team 467 has been building, baking, and selling fresh apple pies as one of the team’s primary student-run fundraisers. This year the students plan to bake around 750 pies to raise funds to help the team compete in the **_FIRST_ Robotics Competition** season for 2025. 
+For over a decade, Team 467 has been building, baking, and selling fresh apple pies as one of the team’s primary student-run fundraisers. This year the students plan to bake around 750 pies to raise funds to help the team compete in the ***_FIRST_ Robotics Competition** season for 2025. 
 
 In addition to being a fund-raiser, Team 467 also reserves a generous set of pies each year to donate to local charities. Recent recipients have been Veterans, Inc., and The Worcester County Food Bank who greatly appreciate this addition to the Thanksgiving Menu.
 
